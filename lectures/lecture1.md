@@ -1,5 +1,21 @@
 # A quick overview of sequencing technologies
 
+There are multiple sequencing technologies currently present on the market. These include can be broadly divided in two categories:
+
+- Amplification-based
+  - [Sanger](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC431765/pdf/pnas00043-0271.pdf) (yes it is still around)
+  - [454](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1464427/) (dead)
+  - [IonTorrent](https://www.nature.com/articles/nature10242) (kinda alive)
+  - [SOLiD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752135/) (dead)
+  - [Illumina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581791/pdf/nihms72488.pdf) (mature but nearing midlife crisis)
+  - [Element](https://www.nature.com/articles/s41587-023-01750-7) (a new superactive kid on the block)
+- Single-molecule
+  - [Helicos](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-s1-i14) (dead)
+  - [PacBio](https://science.sciencemag.org/content/323/5910/133/) (mature)
+  - [ONT](https://pubs.acs.org/doi/full/10.1021/ja1087612) (maturing teenager)
+
+
+
 ## Illumina
 
 [Illumina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581791/pdf/nihms72488.pdf) (originally Solexa) is the second highly parallel sequencing technology. 
