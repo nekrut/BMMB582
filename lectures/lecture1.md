@@ -7,6 +7,7 @@ There are multiple sequencing technologies currently present on the market. Thes
   - [454](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1464427/) (dead)
   - [IonTorrent](https://www.nature.com/articles/nature10242) (kinda alive)
   - [SOLiD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752135/) (dead)
+  - [Complete genomics](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19892942) (reincarnated by BGI)
   - [Illumina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581791/pdf/nihms72488.pdf) (mature but nearing midlife crisis)
   - [Element](https://www.nature.com/articles/s41587-023-01750-7) (a new superactive kid on the block)
 - Single-molecule
