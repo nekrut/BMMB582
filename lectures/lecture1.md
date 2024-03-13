@@ -16,7 +16,14 @@ There are multiple sequencing technologies currently present on the market. Thes
   - [ONT](https://pubs.acs.org/doi/full/10.1021/ja1087612) (maturing teenager)
 
 ![image](https://github.com/nekrut/BMMB582/assets/4291636/95eae4bc-37ea-417f-a106-f1a6140ad1cb)
+ 
+Today's most relevant platforms are:
+  1. Illumina
+  2. Element
+  3. PacBio
+  4. ONT
 
+They are discusssed in this lecture.
 
 ## Illumina
 
@@ -38,6 +45,21 @@ It is by far the most widely used technology of the day:
 ### How does it work
 
 Let's look at these [slides](https://docs.google.com/presentation/d/1oF0dqWpGZOytQeuhgoAK0m53-xmGRnqGkJaYEasuSNo/edit?usp=sharing)
+
+## Element Biosciences
+
+> [!NOTE]
+> Figures are from [Arslan et al. 2023](https://www.nature.com/articles/s41587-023-01750-7). Clicking on each figure will bring you to the original web page.
+
+Element is similar to Illuimina in that it uses amplified clusters of DNA fragments within a flowcell. However, it uses a very different approach to detection and extension. Nucleotide detection is perfomed by using polymerase for incorporation of nucleotides attached to a dye-labelled polymer. These nucleotides are NOT covalently linked with the nascent DNA strand. Instead they are washed out and then filled with an unlabelled 3'-blocked nucleotide. Block is removed and cycle is repeated:
+
+[![image](https://github.com/nekrut/BMMB582/assets/4291636/fcd30988-1a88-4325-8958-56c8968371fb)](https://www.nature.com/articles/s41587-023-01750-7/figures/1)
+
+
+
+
+
+
 
 ## Oxford Nanopore
 
