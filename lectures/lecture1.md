@@ -3,7 +3,7 @@
 There are multiple sequencing technologies currently present on the market. These include can be broadly divided in two categories:
 
 - Amplification-based
-  - [Sanger](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC431765/pdf/pnas00043-0271.pdf) (yes it is still around)
+  - [Sanger](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC431765/pdf/pnas00043-0271.pdf) (yes, it is still around)
   - [454](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1464427/) (dead)
   - [IonTorrent](https://www.nature.com/articles/nature10242) (kinda alive)
   - [SOLiD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752135/) (dead)
