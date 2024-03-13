@@ -25,3 +25,6 @@ This course **does not use** Canvas. Canvas is a convoluted system with too many
 > **Do not contact me through Canvas!** I will not check my Inbox there. Instead, contact me via [email](mailto:aun1@psu.edu?Subject=BMMB582) as described above.
 > 
 ![PXL_20240312_163833999-EDIT](https://github.com/nekrut/BMMB582/assets/4291636/7ec1c691-954a-43f4-a7d2-030148877222)
+
+- Lecture 1: Overview of modern sequencing technologies
+
