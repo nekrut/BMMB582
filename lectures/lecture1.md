@@ -55,6 +55,10 @@ Element is similar to Illuimina in that it uses amplified clusters of DNA fragme
 
 [![image](https://github.com/nekrut/BMMB582/assets/4291636/fcd30988-1a88-4325-8958-56c8968371fb)](https://www.nature.com/articles/s41587-023-01750-7/figures/1)
 
+This changes binding/dissociation kinetics (in Element an "avidite" with multiple nucleotides is bound to template, while in Illumina a single nucleotides is used) and significantly inproves signal-to-noise ratio:
+
+[![image](https://github.com/nekrut/BMMB582/assets/4291636/98affedf-fb88-48a9-9f5b-711e36ba2015)](https://www.nature.com/articles/s41587-023-01750-7/figures/3)
+
 
 
 
