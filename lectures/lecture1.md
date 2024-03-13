@@ -15,14 +15,13 @@ There are multiple sequencing technologies currently present on the market. Thes
   - [PacBio](https://science.sciencemag.org/content/323/5910/133/) (mature)
   - [ONT](https://pubs.acs.org/doi/full/10.1021/ja1087612) (maturing teenager)
 
+![image](https://github.com/nekrut/BMMB582/assets/4291636/95eae4bc-37ea-417f-a106-f1a6140ad1cb)
 
 
 ## Illumina
 
 [Illumina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581791/pdf/nihms72488.pdf) (originally Solexa) is the second highly parallel sequencing technology. 
 It is by far the most widely used technology of the day:
-
-![](https://i.imgur.com/ktRDWb8.png)
 
 ### Pros
 
