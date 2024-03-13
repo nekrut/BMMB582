@@ -3,7 +3,7 @@
 
 ## Illumina
 
-{Illumina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581791/pdf/nihms72488.pdf) (originally Solexa) is the second highly parallel sequencing technology. 
+[Illumina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581791/pdf/nihms72488.pdf) (originally Solexa) is the second highly parallel sequencing technology. 
 It is by far the most widely used technology of the day:
 
 ![](https://i.imgur.com/ktRDWb8.png)
