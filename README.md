@@ -26,5 +26,7 @@ This course **does not use** Canvas. Canvas is a convoluted system with too many
 > 
 ![PXL_20240312_163833999-EDIT](https://github.com/nekrut/BMMB582/assets/4291636/7ec1c691-954a-43f4-a7d2-030148877222)
 
-- [Lecture 1](https://github.com/nekrut/BMMB582/blob/main/lectures/lecture1.md): Overview of modern sequencing technologies
+## Lectures
+
+- [Lecture 1 | Mar 3](https://github.com/nekrut/BMMB582/blob/main/lectures/lecture1.md): Overview of modern sequencing technologies
 
