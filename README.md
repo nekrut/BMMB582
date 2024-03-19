@@ -29,5 +29,5 @@ This course **does not use** Canvas. Canvas is a convoluted system with too many
 ## Lectures
 
 - [Lecture 1 | Mar 14](https://github.com/nekrut/BMMB582/blob/main/lectures/lecture1.md): Overview of modern sequencing technologies
-- [Lecture 2 | Mar 19](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html)
+- [Lecture 2 | Mar 19](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html): Introducing a project and Galaxy
 
