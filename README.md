@@ -31,7 +31,7 @@ This course **does not use** Canvas. Canvas is a convoluted system with too many
 - [Lecture 1 | Mar 14](https://github.com/nekrut/BMMB582/blob/main/lectures/lecture1.md): Overview of modern sequencing technologies
 - [Lecture 2 | Mar 19](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html): Introducing a project and Galaxy
 - [Lecture 3 | Mar 26](https://gxy.io/GTN:T00146): Collections and QC of sequencing data
-- Lecture 4 | Mar 28: Assigning individual datasets, assessing quality, and mapping you own data
+- [Lecture 4 | Mar 28](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/vsi_qc/tutorial.html): Assigning individual datasets, assessing quality, and mapping you own data
 - Lecture 5 | Manipulating and assessing BAM files
 - Lecture 6 | Computing and looking at coverage
 - Lecture 7 | Looking at peaks
