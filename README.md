@@ -34,7 +34,7 @@ This course **does not use** Canvas. Canvas is a convoluted system with too many
 - [Lecture 4 | Mar 28](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/vsi_qc/tutorial.html): [Accessing BMMB582 queue](https://github.com/nekrut/BMMB582/blob/main/queue.md), assessing quality, and mapping you own data
 - Lecture 5 | [A quick into into Python](https://training.galaxyproject.org/training-material/topics/data-science/tutorials/python-basics/tutorial.html)
 - Lecture 6 | [Manipulating](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html) and [assessing BAM files](https://samtools.github.io/hts-specs/SAMv1.pdf)
-- Lecture 7 | Computing and looking at coverage
+- Lecture 7 | [Interval operations](https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html), Computing and looking at coverage
 - Lecture 8 | Looking at peaks
 - To be cointinued
 
