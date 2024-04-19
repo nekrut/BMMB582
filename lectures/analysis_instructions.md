@@ -7,7 +7,7 @@
    - QC'ed the reads
    - Mapped them against `mm10`
    - Filtered data to remove unpaired and non-uniquely mapped reads
-   - Have a final output: a collection with several (2 or 3) BAM files
+   - Have a final output: a collection with several (2 or 3) BAM files. **THIS DATASET IS THE INPUT TO THE TWO WORKFLOWS MENTIONED BELOW**.
   
 ## Next steps
 
