@@ -13,6 +13,9 @@
 
 To complete **before** Tuesday, Apr 23.
 
+![image](https://github.com/nekrut/BMMB582/assets/4291636/c2da6fe1-6058-41d7-b96e-fe129b228dc5)
+
+
 ### Manual analysis using Jupyter
 
 1. Go to "Workflows" on usegalaxy.org, click on "Public workflows" and select `computing_cvrg_per_strand`  to compute coverage for *plus* and *minus* strands.
