@@ -35,7 +35,7 @@ This course **does not use** Canvas. Canvas is a convoluted system with too many
 - Lecture 5 | [A quick into into Python](https://training.galaxyproject.org/training-material/topics/data-science/tutorials/python-basics/tutorial.html)
 - Lecture 6 | [Manipulating](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html) and [assessing BAM files](https://samtools.github.io/hts-specs/SAMv1.pdf)
 - Lecture 7 | [Interval operations](https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html), Computing and looking at coverage
-- Lecture 8 | Looking at peaks
-- To be cointinued
+- Lecture 8 | [Looking at peaks](https://colab.research.google.com/drive/110ERibDr4pSMGK5viRPlq2XYd3zc4LTq?usp=sharing)
+
 
 
