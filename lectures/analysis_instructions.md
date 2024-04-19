@@ -11,17 +11,18 @@
   
 ## Next steps
 
-To complete **before** Tuesday, Apr 23.
+> [!NOTE]
+> To complete **before** Tuesday, Apr 23.
 
 ![image](https://github.com/nekrut/BMMB582/assets/4291636/c2da6fe1-6058-41d7-b96e-fe129b228dc5)
 
 
-### Manual analysis using Jupyter
+### Step 1: Manual analysis using Jupyter
 
 1. Go to "Workflows" on usegalaxy.org, click on "Public workflows" and select `computing_cvrg_per_strand`  to compute coverage for *plus* and *minus* strands.
 2. Load plus and minus datasets into this notebook -> https://colab.research.google.com/drive/110ERibDr4pSMGK5viRPlq2XYd3zc4LTq?usp=sharing and create plots
 
-### Galaxy analysis using MACS2
+### Step 2: Galaxy analysis using MACS2
 
 1. Go to "Workflows" on usegalaxy.org, click on "Public workflows" and select `Macs2 analysis` to create merged peak calls
 2. This datasets will be used for analyses we will perform on Tuesday
