@@ -46,8 +46,27 @@ Use `cut` tool to remove columns 4, 5, 6 and 7 from the relting dataset. You wil
 
 #### 3. Upload gene info
 
-Upload coordinates of mouse genes using genome version `mm10` 
+Upload coordinates of mouse genes using genome version `mm10` and `NCBI RefSeq` as the gene track.
 
 ![image](https://github.com/nekrut/BMMB582/assets/4291636/8c371584-30b6-49a2-a452-c4e70167e4af)
+
+#### 4. Create upstream and downstream regions
+
+Our goal is to identify ATAC-seq peaks in genes as well as in upstream and downstream reagion. To do this we need toi create additional datasets containing coordinates of (1) upstream and (2) downstream regions in addition the coordinates of genes that we've downloaded at the previous step. 
+
+To create upstream and downstream regions use `bedtools FlankBed` tool. You will need to run this tool twice to create upstream and downstream regions. Upstream and downstream regions should be 500bp. 
+
+For upstream:
+
+![image](https://github.com/nekrut/BMMB582/assets/4291636/6b5f3645-2213-4bc3-9a86-9125d30c7f9d)
+
+For downstream:
+
+![image](https://github.com/nekrut/BMMB582/assets/4291636/28828e78-054b-40b0-8555-29f46f1bd871)
+
+> [!NOTE]
+> Use [Name Tags](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/name-tags/tutorial.html) to mark your datasets! This will make your life much easier!
+
+
 
 
