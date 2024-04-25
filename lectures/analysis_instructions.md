@@ -67,6 +67,16 @@ For downstream:
 > [!NOTE]
 > Use [Name Tags](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/name-tags/tutorial.html) to mark your datasets! This will make your life much easier!
 
+#### 4. Compute intersect
 
+Calculate intersect between (1) genes, (2) ustream, (3) downstream regions and peaks (from Step 2). 
+
+#### 5. Select an interesting gene
+
+Pick a gene that has the highest number of peaks within itself or upstream/downstream regions. Write a short discussion of why this gene may be associated with open chromatin. 
+
+#### 6. Submit your results
+
+Use [this form](https://forms.gle/f7FFkZgu2hZgv7Pc7) to submit you results. You must login with your PSU credentials to use this form.
 
 
