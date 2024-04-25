@@ -27,4 +27,27 @@
 1. Go to "Workflows" on usegalaxy.org, click on "Public workflows" and select `Macs2 analysis` to create merged peak calls
 2. This datasets will be used for analyses we will perform on Tuesday
 
-   
+### Step 3: The final project
+
+#### 1. Filter
+
+Using dataset from Step 2 filter it to retain only those rows that contain intervals (peaks) shared across all replicates in your experiment. This information is containewd within column 4. The number you want is the number of replicates in your dataset (2 or 3, depending whether you are analyzing D0, D3, D5 etc.)
+
+```
+chr19	3082621	3082832	1	1	1	0					
+chr19	3083413	3083421	1	1	1	0					
+chr19	3083421	3083690	2	1,2	1	1					
+chr19	3083690	3083707	1	1	1	0
+```
+
+#### 2. Remove unnecessary columns (optional)
+
+Use `cut` tool to remove columns 4, 5, 6 and 7 from the relting dataset. You will no longer need them.
+
+#### 3. Upload gene info
+
+Upload coordinates of mouse genes using genome version `mm10` 
+
+![image](https://github.com/nekrut/BMMB582/assets/4291636/8c371584-30b6-49a2-a452-c4e70167e4af)
+
+
